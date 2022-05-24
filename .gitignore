@@ -1,0 +1,6 @@
+*.txt
+test1
+!x2.txt
+tests/
+#abc
+/hello
